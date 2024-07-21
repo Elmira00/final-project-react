@@ -1,0 +1,66 @@
+form{
+    margin:2%;
+    display: flex;
+    align-items: center;
+}
+#vendors,#models{
+    padding: 8px 20px;
+    border-radius: 10px;
+    border:1px solid rgb(135, 135, 135);
+    color: rgb(85, 85, 85);
+    font-size: 1.2em;
+    text-align: left;
+    margin: 0px 20px;
+}
+.type-all-new-drive{
+    padding: 8px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    border-color: white;
+   color: rgb(87, 87, 87);
+   transition: 1s;
+}
+#vendors,#models:hover{
+    cursor: pointer;
+}
+.type-all-new-drive:hover{
+    color: white;
+    background-color: red;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.price-div{
+    display: inline-block;
+    margin: 0px 10px;
+    margin-left: 5%;
+}
+.price-div input{
+    padding: 8px;
+    font-size: 1em;
+    border-radius: 10px;
+    border-color: rgb(189, 189, 189);
+   color: rgb(87, 87, 87);
+   width: 37%;
+}
+.year-div{
+    display: inline-block;
+    
+}
+.year-div input{
+    padding: 8px;
+    font-size: 1em;
+    border-radius: 10px;
+    border-color: rgb(189, 189, 189);
+   color: rgb(87, 87, 87);
+   width: 30%;
+}
+#submit-btn{
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-size: larger;
+}
+#submit-btn:hover{
+    cursor: pointer;
+}

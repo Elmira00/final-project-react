@@ -1,0 +1,404 @@
+{
+  "cars": [
+    {
+      "vendor": "audi",
+      "model": "Q7",
+      "year": "2024",
+      "color": "gray",
+      "engine": "2.0 L/252 a.g./Benzin",
+      "mileage": "0 km",
+      "new": true,
+      "city": "Baku",
+      "tel": "(050) 570-00-77",
+      "price": "143414",
+      "location": "Bakı ş., Xətai r., Babək pr. 43A",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F25%2F17%2F40%2F13%2F975640ff-1af5-4d72-bad0-9be70c231b98%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F25%2F17%2F40%2F15%2Ff78eb9d2-0a85-4883-8d6d-5e33759dfcf1%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F25%2F17%2F40%2F35%2F107eb975-03cd-4fa0-bff3-8200d357c4f3%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F25%2F17%2F40%2F54%2Fe46c2543-64f7-41a5-a5a1-b1bd5bb80a63%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ],
+      "id": "0348"
+    },
+    {
+      "vendor": "bmw",
+      "model": "X5",
+      "year": "2022",
+      "color": "blue",
+      "engine": "3.0 L/340 a.g./Benzin",
+      "mileage": "15400 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(050) 570-00-77",
+      "price": " 160650",
+      "location": "Bakı ş., Nizami r., Babək pr. 61C",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F11%2F38%2F27%2Fcc95750a-fb26-4fa3-8e78-53edee10d16a%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F11%2F38%2F26%2Fa060ee31-ebe1-4dfc-9712-bc8aed0f9faf%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F11%2F38%2F14%2Fe6bf65ca-16a5-4fe5-aac9-9d68bd2be533%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F11%2F38%2F26%2F1107fbd8-e337-4f6d-94b8-7e1691e92ea7%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ],
+      "id": "aa25"
+    },
+    {
+      "vendor": "audi",
+      "model": "A6",
+      "year": "2022",
+      "color": "black",
+      "engine": "2.0 L/252 a.g./Benzin",
+      "mileage": "23900 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(050) 570-00-77",
+      "price": "72250",
+      "location": "Bakı ş., Nizami r., Babək pr., 39A",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F04%2F18%2F03%2F26%2F27197434-3bbb-44f3-bd46-e485472251cb%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F04%2F18%2F05%2F03%2F055f2c57-f3ed-4645-b199-b78fc371e45b%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F04%2F18%2F03%2F33%2Fe0d6fb1f-8cf6-430e-b758-42ccec651f5b%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F04%2F18%2F03%2F37%2Ff19ac47e-9f62-4788-86ae-71e51cb35ef8%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ],
+      "id": "45f3"
+    },
+    {
+      "vendor": "bmw",
+      "model": "528",
+      "year": "2012",
+      "color": "gray",
+      "engine": "2.0 L/245 a.g./Benzin",
+      "mileage": "172000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(050) 570-00-77",
+      "price": "27000",
+      "location": "Bakı ş., Nizami r., Babək pr., 39A",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F06%2F00%2F24%2F21%2F65ca003a-a9d0-4a15-a836-f9dffbd4fc10%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F06%2F00%2F24%2F47%2F2de57cb9-151a-4c5e-8457-23ef318a0855%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F06%2F00%2F24%2F48%2F9dd93b8f-5c75-4748-a27c-fefaed10b80c%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F06%2F00%2F24%2F48%2F6127da91-6f95-4cb4-b323-babcefdde620%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "530a"
+    },
+    {
+      "vendor": "ford",
+      "model": "Fusion (North America)",
+      "year": "2016",
+      "color": "gray",
+      "engine": "1.5 L/181 a.g./Benzin",
+      "mileage": "106 000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(050) 570-00-77",
+      "price": "19800",
+      "location": "Baki ş., Nəsimi r., 22-ci Dağlıq küç., 10",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F06%2F14%2F08%2F59%2Fdbabac1b-6fc8-4498-b8b6-f93c02f4ee93%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F06%2F14%2F09%2F00%2Fc0550730-6918-44ea-8b16-c061d3d9de62%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F06%2F14%2F08%2F58%2F78d900d7-a17b-46fc-9a5a-23d3d89cf6fe%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F06%2F14%2F09%2F02%2F9310145d-bfa6-4187-88e5-8d3e41f2be21%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ],
+      "id": "4409"
+    },
+    {
+      "vendor": "ford",
+      "model": "Focus",
+      "year": "2011",
+      "color": "white",
+      "engine": "1.6 L/125 a.g./Benzin",
+      "mileage": "220000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "10000",
+      "location": "Baki ş., Nəsimi r., 22-ci Dağlıq küç., 10",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F12%2F13%2F54%2F52%2Fe1019d5e-6edb-4a85-ae9f-0fa3a066a4e7%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F12%2F13%2F55%2F35%2F54e8e624-8156-4d45-bac2-8fa897c0b037%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F12%2F13%2F55%2F33%2F955d6f71-4260-4881-a3b1-afaec160f430%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F12%2F13%2F55%2F12%2F9161bf85-698d-4150-b8d1-910630a08d5a%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ],
+      "id": "1c4a"
+    },
+    {
+      "vendor": "mercedes",
+      "model": "c 240",
+      "year": "2000",
+      "color": "blue",
+      "engine": "2.4 L/170 a.g./Benzin",
+      "mileage": "220000 km",
+      "new": false,
+      "city": "Sumqayit",
+      "tel": "(051) 585-93-93",
+      "price": "11700",
+      "location": "Sumqayit ş., İ.Qayibov 3 ('Şahana' restoranin yani)",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F27%2F18%2F03%2F05%2F56c894a4-79e0-4415-9709-ab0a637559aa%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F27%2F18%2F03%2F05%2F574f50e0-af63-48f2-87b3-05746b225910%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F27%2F18%2F03%2F05%2F51845953-6318-4f97-8d79-896765e17627%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F27%2F18%2F03%2F05%2F8e1a87da-f5cc-4eaa-895e-37568e0cfd4d%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "c3fc"
+    },
+    {
+      "vendor": "mercedes",
+      "model": "G 63 AMG",
+      "year": "2023",
+      "color": "black",
+      "engine": "4.0 L/585 a.g./Benzin",
+      "mileage": "8000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "472600",
+      "location": "Baki ş., Nəsimi r., 22-ci Dağlıq küç., 10",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F01%2F13%2F08%2F14%2Fecccc005-a0e7-47aa-97bb-e128fde7d92d%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F01%2F13%2F08%2F50%2F96aca81c-1d21-404a-8d36-bfa7c617af73%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F01%2F13%2F09%2F27%2F1921ab72-aebe-45af-8f42-fdc3e68cd921%2F32444_OikwS_ZIYofkU92pw8zouQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F01%2F13%2F10%2F13%2F5ec7cad8-de89-4f4c-9444-a72017d6b863%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg"
+      ],
+      "id": "ffb2"
+    },
+    {
+      "vendor": "geely",
+      "model": "coolray",
+      "year": "2024",
+      "color": "white",
+      "engine": "1.5 L/181 a.g./Benzin",
+      "mileage": "0 km",
+      "new": true,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "39900",
+      "location": "Baki ş, Nizami r., Babək pr., 35A",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2023%2F08%2F19%2F10%2F55%2F29%2F83630fae-28c7-47cc-838e-81ed7190b4da%2F88097_o3JbvGkCk3asSGXslppk_A.jpg",
+        "https://turbo.azstatic.com/uploads/full/2023%2F08%2F19%2F10%2F55%2F31%2F4d684cc9-90b5-4cec-ab1a-1724e22dd7ad%2F88081_7Hw6k-j5awrj5TxWaUgh_A.jpg",
+        "https://turbo.azstatic.com/uploads/full/2023%2F08%2F19%2F10%2F55%2F29%2F4d7fa3bd-d0bf-4352-ad7f-7144b5757f47%2F91838_FJfFeKRcoRAYZR5lGd92Hw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2023%2F08%2F19%2F10%2F56%2F44%2F46364f2b-e91d-40d1-b863-beeeed762108%2F91795_YsIXjrPkEzidSXux--4MkA.jpg"
+      ],
+      "id": "417c"
+    },
+    {
+      "vendor": "geely",
+      "model": "monjaro",
+      "year": "2024",
+      "color": "gray",
+      "engine": "2.0 L/238 a.g./Benzin",
+      "mileage": "0 km",
+      "new": true,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "65900",
+      "location": "Baki ş, Nizami r., Babək pr., 35A",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F05%2F23%2F03%2F14%2F911d0728-4e50-4d50-823a-d0c71cd7da10%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F05%2F23%2F03%2F19%2Fe041ca8e-6a91-482e-aaa0-53f61053e349%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F05%2F23%2F06%2F57%2F4f012593-10b8-4d80-b9b0-4733be3b2fb7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F05%2F23%2F00%2F03%2F8d474320-1fc7-4211-80ad-ac8fc1613010%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "8e20"
+    },
+    {
+      "vendor": "nissan",
+      "model": "note",
+      "year": "2015",
+      "color": "red",
+      "engine": "1.2 L/98 a.g./Benzin",
+      "mileage": "42000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "15500",
+      "location": "Baki ş., Badamdar qəs., Maşın bazarı",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F11%2F14%2F49%2F32%2F15efd6f9-493d-4b0d-aa1c-4cbe27280294%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F11%2F14%2F49%2F32%2F528062ef-5e0b-4670-a496-f27499b9ffee%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F11%2F14%2F49%2F33%2Fc87aa662-e29c-4678-9d17-95d26bdf84c5%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F04%2F11%2F14%2F49%2F32%2F9012f0f2-3476-40f7-b505-29719681f109%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg"
+      ],
+      "id": "abfa"
+    },
+    {
+      "vendor": "nissan",
+      "model": "xterra",
+      "year": "2020",
+      "color": "black",
+      "engine": "2.5 L/165 a.g./Benzin",
+      "mileage": "0 km",
+      "new": true,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "63750",
+      "location": "Bakı ş., Yasamal r., Moskva pr. 75",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2021%2F03%2F13%2F12%2F15%2F44%2F69cf8ce7-ca10-40d5-ab47-bc0bdcb061d7%2F75314_0awlnzc9QQ8HHbbpcFcOKQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2021%2F03%2F13%2F12%2F15%2F40%2Fe9c50ec8-a944-4c98-9807-45e951d8ceba%2F35657_2qKDTU4Gj55TAfv99bkezQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2021%2F03%2F13%2F12%2F15%2F43%2F789df407-0247-444b-9f13-dafe2504df89%2F88757_tXm5-K318PUqBK5ABG6OFA.jpg",
+        "https://turbo.azstatic.com/uploads/full/2021%2F03%2F13%2F12%2F15%2F40%2Fa5fc67da-2613-4a4e-841e-c48996195217%2F85980_lNuWhmuLvQ8Wn2tAeDdAZQ.jpg"
+      ],
+      "id": "5844"
+    },
+    {
+      "vendor": "Lamborghini",
+      "model": "Huracan",
+      "year": "2017",
+      "color": "orange",
+      "engine": "5.2 L/610 a.g./Benzin",
+      "mileage": "15915 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "417350",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F05%2F10%2F40%2F36%2F06a50d38-f8ab-4051-b216-767785183dbd%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F05%2F10%2F40%2F35%2F668f78d3-729a-4370-bec6-bdf2fbc980a9%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F05%2F10%2F40%2F34%2F9b062cf2-365c-4f2d-8440-f652ef23c92f%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F03%2F05%2F10%2F40%2F37%2Fd01dab38-5b46-4912-8c2e-c1a8a659c52c%2F14231_J-_dQLKSND7AOyYEFIDxaw.jpg"
+      ],
+      "id": "a41f"
+    },
+    {
+      "vendor": "Lamborghini",
+      "model": "urus",
+      "year": "2019",
+      "color": "black",
+      "engine": "4.0 L/650 a.g./Benzin",
+      "mileage": "27000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "552500",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F21%2F16%2F58%2F39%2F0356f709-87ba-4877-a2ee-87fa01040816%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F21%2F16%2F58%2F39%2Fd78feb5f-3d84-472f-b86b-7577c89d9522%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F21%2F16%2F59%2F08%2F95a85a64-b5ee-44c4-ae16-d03bbeb03454%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F21%2F16%2F59%2F07%2Fca7d0e8a-3faa-42a7-bb2b-2a0f0e5597a8%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ],
+      "id": "16b7"
+    },
+    {
+      "vendor": "opel",
+      "model": "astra",
+      "year": "2007",
+      "color": "gray",
+      "engine": "1.3 L/90 a.g./Dizel",
+      "mileage": "221000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "8800",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F15%2F48%2F14%2F16f5e120-a601-48a7-8f01-a6d3f8588210%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F15%2F48%2F14%2F0b8b0603-a565-4545-b59b-5e05b12a82b1%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F15%2F48%2F14%2F78508985-b90b-4722-9009-9501c1732919%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F15%2F48%2F14%2F65290f66-ba4b-43ee-8085-25cc801461b1%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg"
+      ],
+      "id": "3595"
+    },
+    {
+      "vendor": "opel",
+      "model": "vectra",
+      "year": "2002",
+      "color": "red",
+      "engine": "2.2 L/125 a.g./Dizel",
+      "mileage": "302000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "5800",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F14%2F25%2F08%2Fdf38ca24-af44-47c7-94b4-0034c87dd191%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F14%2F26%2F21%2F8b187b27-8b20-40e2-8fb5-75d9570c7d7d%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F14%2F26%2F20%2Fe8e4bb0e-586d-4dd4-ab47-b64d69ec7ee8%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F07%2F20%2F14%2F26%2F19%2Fed3afbd6-173f-42c0-b4b2-ca8b2e986f40%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+      ],
+      "id": "d91f"
+    },
+    {
+      "vendor": "chevrolet",
+      "model": "camoro",
+      "year": "2012",
+      "color": "black",
+      "engine": "3.6 L/328 a.g./Benzin",
+      "mileage": "172000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "30500",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F02%2F30%2F50%2Faf0c4320-3401-42c8-b915-f259e5ff41c1%2F73879_Llsf7HE7T9ZVmMOurKtMGQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F02%2F33%2F47%2F33f8e298-1aff-4279-8e7d-9a45f8d6bbcb%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F02%2F31%2F01%2F5c50b997-3f8f-4dd2-8bfb-8ba579a0df35%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F02%2F02%2F31%2F38%2Fb102a433-e3d6-4424-9041-120d60ef2a73%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "7919"
+    },
+    {
+      "vendor": "chevrolet",
+      "model": "malibu",
+      "year": "2020",
+      "color": "brown",
+      "engine": "1.5 L/160 a.g./Benzin",
+      "mileage": "154723 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "23200",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F01%2F12%2F17%2F14%2F51%2F22d80e24-af9c-491a-b88f-23b1c3280d2d%2F88088_ZNuahj4pbYSJifX7FMqT8w.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F01%2F12%2F17%2F14%2F51%2F7fc76c53-96b9-44fb-9093-407fa650e3e2%2F88078_uf0B1XTA9gySFz6trU6FXA.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F01%2F12%2F17%2F15%2F35%2F137f1f6c-9ef4-4aa8-bb44-20b57c916b7b%2F3771_L2Zw8vjT1cHR5cK0RmZ9Cg.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F01%2F12%2F17%2F15%2F39%2F89019205-c8a1-4a38-ae8d-568350bf528d%2F3798_fJRHoA8M976gTP4TnVJbNQ.jpg"
+      ],
+      "id": "d3fb"
+    },
+    {
+      "vendor": "porsche",
+      "model": "macan",
+      "year": "2019",
+      "color": "cyan",
+      "engine": "2.0 L/252 a.g./Benzin",
+      "mileage": "42000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "74630",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F23%2F18%2F53%2F28%2F6a0df162-6da3-4e31-afbb-653928dafc69%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F23%2F18%2F53%2F28%2Fec39db79-21e2-4881-a795-6987b62a6c69%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F23%2F18%2F53%2F27%2Fac68fce2-1a70-4573-a87a-95914a56c8a5%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F06%2F23%2F18%2F53%2F28%2F6716befa-09fb-4652-a6be-2aae4ac0a6d0%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "69ab"
+    },
+    {
+      "vendor": "porsche",
+      "model": "Panamera GTS",
+      "year": "2016",
+      "color": "gray",
+      "engine": "4.8 L/440 a.g./Benzin",
+      "mileage": "97000 km",
+      "new": false,
+      "city": "Baku",
+      "tel": "(051) 585-93-93",
+      "price": "84830",
+      "location": "Bakı ş., Nərimanov r., Ülvi Bünyadzadə küç., 17",
+      "images": [
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F25%2F23%2F22%2F35%2F1cca9c18-e36f-45cf-83ad-d2ce3f13beb7%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F25%2F23%2F22%2F32%2F27fd0b78-3879-45a8-bdac-901e0224affa%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F25%2F23%2F22%2F34%2Ff1b09646-040f-4fb7-97d1-a88d408166f8%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg",
+        "https://turbo.azstatic.com/uploads/full/2024%2F05%2F25%2F23%2F22%2F18%2Fe0bdf6dc-a748-4d80-ad43-dba3c4736e16%2F64677_XEKjwmAveF1J7d42VxCbsw.jpg"
+      ],
+      "id": "ffac"
+    }
+  ]
+}

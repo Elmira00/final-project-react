@@ -1,0 +1,74 @@
+li {
+  display: inline-block;
+  margin: 10px;
+}
+.my-ul {
+  text-decoration: none;
+  display: flex;
+  background-color: white;
+  margin: 0px 10% 0px 10%;
+}
+.left-side-bar {
+  display: flex;
+}
+nav {
+  display: flex;
+  padding: 0px 11% 0px 7%;
+}
+.header-a:hover {
+  color: red;
+}
+.header-a {
+  color: gray;
+  text-decoration: none;
+  margin-right: 10px;
+  display: inline;
+}
+.header-bar-right {
+  display: flex;
+  margin: 0 0 0 auto;
+  align-items: center;
+}
+.tel {
+  margin-right: 20px;
+  color: black;
+}
+i {
+  margin-right: 5px;
+}
+.header-top-nav {
+  background-color: rgb(243, 0, 0);
+  padding: 0px 11% 0px 11%;
+}
+.header-top-nav h3 {
+  display: inline-block;
+  font-size: larger;
+  margin: 10px;
+  color: white;
+}
+.header-new-btn {
+  float: right;
+  margin: 10px;
+}
+.header-new-btn button {
+  font-size: 1.1em;
+  background-color: rgb(113, 185, 5);
+  border-radius: 10px;
+  color: white;
+  padding: 2px 12px;
+  border: 1px solid rgb(113, 185, 5);
+}
+.header-new-btn button:hover {
+  background-color: rgb(63, 103, 2);
+  border: 1px solid rgb(63, 103, 2);
+  color: rgb(112, 112, 112);
+  cursor: pointer;
+}
+.header-top-nav-a {
+  color: white;
+  margin-left: 5%;
+}
+.header-top-nav-a:hover{
+    color: gray;
+    cursor: pointer;
+}

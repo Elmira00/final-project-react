@@ -1,0 +1,60 @@
+.car-details-div p {
+  text-align: left;
+  font-size: large;
+  font-weight: bold;
+}
+.car-details-div {
+  margin: 0px 20% 0px 20%;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  display: flex;
+  padding-bottom: 15%;
+}
+.car-details-div img {
+  height: 400px;
+  border-radius: 10px;
+  width: 550px;
+  margin-bottom: 20px;
+}
+.car-details-div .sub-sec {
+  display: flex;
+}
+.car-details-div div {
+  margin-right: 5%;
+}
+.main-div {
+  background-image: url("https://avatars.mds.yandex.net/i?id=a070dec9482be9ff887af0b2cf8e5b5459e1d5998a82feb3-10231558-images-thumbs&n=13");
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.right-side{
+    margin:7% 0px 1% 2%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+.right-side span{
+background-color: white;
+color: rgb(88, 88, 88);
+padding: 2px;
+border-radius: 5px;
+margin: 10px;
+}
+.right-side button{
+    color: white;
+    background-color: rgb(3, 172, 3);
+    display: block;
+    margin:10% 1%;
+    padding:10px 10px;
+    border-radius: 5px;
+    transition-duration: 1s;
+}
+.right-side button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 255, 0);
+    color: rgb(56, 56, 56);
+    transition: 1s;
+}

@@ -1,0 +1,30 @@
+.new-car-form input{
+display: block;
+margin: 20px;
+font-size: larger;
+border-radius: 10px;
+padding: 5px;
+}
+.new-car-form {
+    display: flex;
+    margin: 5% 25% 0px 25%;
+    
+}
+.new-car-form div{
+    display: inline;
+}
+.new-car-form button{
+    background-color: red;
+    color: white;
+    padding:10px 20px;
+    display: block;
+    margin-right: 30px;
+    float: right;
+    border-radius: 10px;
+}
+.new-car-form button:hover{
+    background-color: rgb(78, 2, 2);
+    color: azure;
+    transition-duration: 1s;
+    cursor: pointer;
+}
